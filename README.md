@@ -94,26 +94,3 @@ I’m a **Full Stack Web Developer** specializing in the **MERN stack**, focused
 
 **Tools:** Git, GitHub, Render  
 
----
-
-## 🎓 Education
-
-**Kalinga Institute of Industrial Technology (KIIT)**  
-B.Tech in Computer Science & Engineering (AI & ML)  
-2024 – 2028 | CGPA: **9.39**
-
----
-
-## 📜 Certifications
-
-- Classify Images with TensorFlow — Google Cloud Skills Boost  
-- GirlScript Summer of Code 2025 Contributor  
-- Postman API Fundamentals Student Expert  
-- Programming, Data Structures and Algorithms in Python — NPTEL (Elite)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham-Lodh&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Lodh&layout=compact&theme=dark&hide_border=true)
