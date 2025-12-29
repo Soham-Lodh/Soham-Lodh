@@ -85,9 +85,13 @@ I’m a **Full Stack Web Developer** specializing in the **MERN stack**, focused
 ## 🛠 Technical Skills
 
 **Languages:** JavaScript, Python, Java, C  
+
 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+
 **Backend:** Node.js, Express.js, REST APIs  
+
 **Databases:** MongoDB, PostgreSQL  
+
 **Tools:** Git, GitHub, Render  
 
 ---
@@ -111,6 +115,5 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ## 📊 GitHub Stats
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham-Lodh&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Lodh&layout=compact&theme=dark&hide_border=true)
