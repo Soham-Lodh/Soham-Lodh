@@ -94,3 +94,4 @@ I’m a **Full Stack Web Developer** specializing in the **MERN stack**, focused
 
 **Tools:** Git, GitHub, Render  
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Lodh&show_icons=true&locale=en&layout=compact" alt="Soham-Lodh" /></p>
