@@ -1,97 +1,133 @@
 # Hi, I’m Soham 👋
 
-I’m a **Full Stack Web Developer** specializing in the **MERN stack**, focused on building **scalable, real-world web applications**. I prioritize clean architecture, strong fundamentals, and maintainable code over surface-level features.
+Full Stack Web Developer (MERN Stack)  
+Focused on building scalable, production-ready applications with clean architecture and strong fundamentals.
 
 📍 Kolkata, India  
 📧 sohamlodh06@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/soham-lodh  
+🔗 GitHub: https://github.com/Soham-Lodh  
 
 ---
 
-## 🔭 What I’m Currently Working On
+## 🚀 About Me
 
-- **Prescripto** — a full-stack medical appointment and doctor management platform  
-- Improving frontend performance and architecture in React / Next.js projects  
-- Actively contributing to open-source communities and collaborative programs
+I build real-world full-stack applications with:
 
----
+- Clean and modular architecture
+- Optimized API design
+- Efficient frontend performance
+- Maintainable and scalable codebases
 
-## 👯 Open to Collaborate On
-
-- MERN / React / Next.js based applications  
-- Open-source projects with real users and structured code reviews  
-- Products that value long-term maintainability over quick demos
+I focus on system thinking and production standards — not tutorial clones.
 
 ---
 
-## 🤝 Looking for Feedback On
+## 🔭 Currently Working On
 
-- Frontend architecture and scaling patterns  
-- Production-grade React best practices  
-- Clean API design and frontend–backend integration
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **React.js** and **Next.js** patterns  
-- **TypeScript** for scalable and safer codebases  
-- **AI / ML fundamentals** aligned with my CSE (AI & ML) specialization
+- **Prescripto** — Medical Appointment & Doctor Management Platform
+- Improving React / Next.js architecture patterns
+- Learning Advanced TypeScript
+- Strengthening AI/ML fundamentals (CSE AI & ML)
 
 ---
 
-## 💬 Ask Me About
+## 🛠 Tech Stack
 
-- MERN stack development  
-- React and JavaScript fundamentals  
-- API integration and performance optimization  
-- Transitioning from tutorials to production-style applications
+### Languages
+- JavaScript
+- Python
+- Java
+- C
+
+### Frontend
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Databases
+- MongoDB
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- Render
+- Postman
 
 ---
 
-## 🧑‍💻 Experience
+## 🩺 Featured Project
 
-### Open Source Contributor — GirlScript Summer of Code (GSSoC)  
-**Jul 2025 – Oct 2025 | Remote**
-
-- Contributed to MERN-stack open-source projects by improving frontend UI components and backend APIs  
-- Added features, resolved issues, and enhanced API integrations for better reliability  
-- Worked in an agile, collaborative environment with PR reviews and issue discussions
-
----
-
-### Member — Coding Ninjas KIIT Chapter  
-**Aug 2025 – Present | Bhubaneswar, India**
-
-- Developed and maintained MERN-based applications with a focus on performance and reliability  
-- Assisted in organizing hackathons, coding competitions, and technical workshops  
-- Collaborated with peers to strengthen problem-solving and development skills
-
----
-
-## 🚀 Featured Project
-
-### 🩺 Prescripto — Medical Appointment System  
+### Prescripto — Medical Appointment System
 **Tech:** MongoDB, Express, React, Node.js  
 
-- Built a platform enabling seamless interaction between doctors and patients  
-- Implemented authentication, dashboards, and smooth UI workflows  
-- Optimized APIs and frontend components to reduce redundant calls and improve performance  
+- Built complete doctor–patient interaction workflow  
+- Implemented secure authentication & dashboards  
+- Optimized API calls and reduced redundant re-renders  
+- Structured scalable backend with proper route separation  
 
-🔗 Repository: https://github.com/Soham-Lodh/Prescripto
+🔗 Repository: https://github.com/Soham-Lodh/Prescripto  
 
 ---
 
-## 🛠 Technical Skills
+# 📊 GitHub Stats
 
-**Languages:** JavaScript, Python, Java, C  
+## Overall Performance
 
-**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Lodh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Lodh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-**Backend:** Node.js, Express.js, REST APIs  
+---
 
-**Databases:** MongoDB, PostgreSQL  
+## 🔥 Contribution Streak
 
-**Tools:** Git, GitHub, Render  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Soham-Lodh&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Lodh&show_icons=true&locale=en&layout=compact" alt="Soham-Lodh" /></p>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Lodh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soham-Lodh&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📅 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Lodh&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+If you're building something serious and scalable, I’m open to collaboration.
+
+LinkedIn: https://www.linkedin.com/in/soham-lodh  
+GitHub: https://github.com/Soham-Lodh  
+
+---
+
