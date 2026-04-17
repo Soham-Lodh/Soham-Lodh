@@ -106,14 +106,6 @@ I focus on system thinking and production standards — not tutorial clones.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soham-Lodh&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📅 Profile Summary
 
 <p align="center">
