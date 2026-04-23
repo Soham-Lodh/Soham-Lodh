@@ -5,7 +5,9 @@ Focused on building production-ready applications with strong backend logic, cle
 
 📍 Kolkata, India  
 📧 sohamlodh06@gmail.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/soham-lodh  
+
 🔗 GitHub: https://github.com/Soham-Lodh  
 
 ---
@@ -56,6 +58,7 @@ Git • GitHub • Render • Vercel • Postman
 **AI-Powered Insurance Premium Prediction System**
 
 🔗 Live: https://insurance-premium-predictor-drab.vercel.app  
+
 🔗 Repo: https://github.com/Soham-Lodh/Insurance-Premium-Predictor  
 
 **Tech:** React • FastAPI • XGBoost • Scikit-learn  
@@ -83,6 +86,7 @@ Git • GitHub • Render • Vercel • Postman
 **Medical Appointment & Doctor Management System**
 
 🔗 Live: https://prescripto-o5lf.vercel.app
+
 🔗 Repo: https://github.com/Soham-Lodh/Prescripto  
 
 **Tech:** MongoDB • Express • React • Node.js  
@@ -132,4 +136,5 @@ Git • GitHub • Render • Vercel • Postman
 If you're working on scalable systems or real-world products, feel free to reach out.
 
 🔗 LinkedIn: https://www.linkedin.com/in/soham-lodh  
+
 🔗 GitHub: https://github.com/Soham-Lodh  
