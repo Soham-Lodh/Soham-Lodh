@@ -4,6 +4,7 @@ Full Stack Developer (MERN + ML Systems)
 Focused on building production-ready applications with strong backend logic, clean architecture, and real-world deployment experience.
 
 📍 Kolkata, India  
+
 📧 sohamlodh06@gmail.com  
 
 🔗 LinkedIn: https://www.linkedin.com/in/soham-lodh  
