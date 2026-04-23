@@ -1,7 +1,7 @@
 # Hi, I’m Soham 👋
 
-Full Stack Web Developer (MERN Stack)  
-Focused on building scalable, production-ready applications with clean architecture and strong fundamentals.
+Full Stack Developer (MERN + ML Systems)  
+Focused on building production-ready applications with strong backend logic, clean architecture, and real-world deployment experience.
 
 📍 Kolkata, India  
 📧 sohamlodh06@gmail.com  
@@ -12,76 +12,88 @@ Focused on building scalable, production-ready applications with clean architect
 
 ## 🚀 About Me
 
-I build real-world full-stack applications with:
+I build full-stack systems that go beyond UI — focusing on:
 
-- Clean and modular architecture
-- Optimized API design
-- Efficient frontend performance
-- Maintainable and scalable codebases
+- Scalable backend architecture  
+- Real-world API design and integration  
+- Machine learning model deployment  
+- Clean, maintainable codebases  
 
-I focus on system thinking and production standards — not tutorial clones.
+I prioritize **engineering fundamentals, system design, and production readiness** over tutorial-driven development.
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Current Focus
 
-- **Prescripto** — Medical Appointment & Doctor Management Platform
-- Improving React / Next.js architecture patterns
-- Learning Advanced TypeScript
-- Strengthening AI/ML fundamentals (CSE AI & ML)
+- Building full-stack applications with real deployment pipelines  
+- Strengthening system design and backend scalability  
+- Advancing in AI/ML (CSE — AI & ML)  
+- Improving TypeScript and modern React architecture  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- JavaScript
-- Python
-- Java
-- C
+JavaScript • Python • Java • C  
 
 ### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
+React.js • Next.js • Tailwind CSS • HTML5 • CSS3  
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+Node.js • Express.js • FastAPI • REST APIs • JWT Auth  
 
 ### Databases
-- MongoDB
-- PostgreSQL
+MongoDB • PostgreSQL  
 
-### Tools
-- Git
-- GitHub
-- Render
-- Postman
+### Tools & Deployment
+Git • GitHub • Render • Vercel • Postman  
 
 ---
 
-## 🩺 Featured Project
+## 🧠 Featured Project — PremiumIQ
 
-### Prescripto — Medical Appointment System
-**Tech:** MongoDB, Express, React, Node.js  
+**AI-Powered Insurance Premium Prediction System**
 
-- Built complete doctor–patient interaction workflow  
-- Implemented secure authentication & dashboards  
-- Optimized API calls and reduced redundant re-renders  
-- Structured scalable backend with proper route separation  
+🔗 Live: https://insurance-premium-predictor-drab.vercel.app  
+🔗 Repo: https://github.com/Soham-Lodh/Insurance-Premium-Predictor  
 
-🔗 Repository: https://github.com/Soham-Lodh/Prescripto  
+**Tech:** React • FastAPI • XGBoost • Scikit-learn  
+
+### What it does
+- Predicts insurance premiums based on health, lifestyle, and financial data  
+- Generates risk score and confidence range  
+- Handles compound medical conditions via engineered risk features  
+
+### Engineering Highlights
+- Built full ML pipeline → model training → deployment  
+- Served model via FastAPI with proper preprocessing pipeline  
+- Solved real-world issues like CORS, environment configs, and API integration  
+- Designed multi-step frontend with optimized state handling  
+
+### Model Performance
+- XGBoost (tuned) — **R²: 0.9944**  
+- Extreme error rate (>10%): **5.42%**  
+- Feature engineering: medical history → risk scoring  
 
 ---
 
-# 📊 GitHub Stats
+## 🩺 Featured Project — Prescripto
 
-## Overall Performance
+**Medical Appointment & Doctor Management System**
+
+🔗 Repo: https://github.com/Soham-Lodh/Prescripto  
+
+**Tech:** MongoDB • Express • React • Node.js  
+
+- Designed complete doctor–patient workflow  
+- Implemented authentication and role-based dashboards  
+- Structured scalable backend with modular routing  
+- Reduced unnecessary re-renders and optimized API usage  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soham-Lodh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -114,12 +126,9 @@ I focus on system thinking and production standards — not tutorial clones.
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact
 
-If you're building something serious and scalable, I’m open to collaboration.
+If you're working on scalable systems or real-world products, feel free to reach out.
 
-LinkedIn: https://www.linkedin.com/in/soham-lodh  
-GitHub: https://github.com/Soham-Lodh  
-
----
-
+🔗 LinkedIn: https://www.linkedin.com/in/soham-lodh  
+🔗 GitHub: https://github.com/Soham-Lodh  
