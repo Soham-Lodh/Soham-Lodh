@@ -82,6 +82,7 @@ Git • GitHub • Render • Vercel • Postman
 
 **Medical Appointment & Doctor Management System**
 
+🔗 Live: https://prescripto-o5lf.vercel.app/
 🔗 Repo: https://github.com/Soham-Lodh/Prescripto  
 
 **Tech:** MongoDB • Express • React • Node.js  
