@@ -35,7 +35,7 @@ I prioritize **engineering fundamentals, system design, and production readiness
 ## 🛠 Tech Stack
 
 ### Languages
-JavaScript • Python • Java • C  
+TypeScript • JavaScript • Python • Java • C  
 
 ### Frontend
 React.js • Next.js • Tailwind CSS • HTML5 • CSS3  
@@ -82,7 +82,7 @@ Git • GitHub • Render • Vercel • Postman
 
 **Medical Appointment & Doctor Management System**
 
-🔗 Live: https://prescripto-o5lf.vercel.app/
+🔗 Live: https://prescripto-o5lf.vercel.app
 🔗 Repo: https://github.com/Soham-Lodh/Prescripto  
 
 **Tech:** MongoDB • Express • React • Node.js  
