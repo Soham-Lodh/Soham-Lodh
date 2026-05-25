@@ -199,14 +199,14 @@ The project focuses on scalable backend structure, authentication systems, and e
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Soham-Lodh&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  src="https://github-readme-stats.shion.dev/api?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+  height="170"
+/>
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Lodh&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+  height="170"
+/>
 </p>
 
 ---
@@ -215,8 +215,9 @@ The project focuses on scalable backend structure, authentication systems, and e
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Soham-Lodh&theme=tokyonight&hide_border=true" 
-  />
+  src="https://streak-stats.demolab.com/?user=Soham-Lodh&theme=dark&hide_border=false" 
+  height="170"
+/>
 </p>
 
 ---
