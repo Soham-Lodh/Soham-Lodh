@@ -198,15 +198,17 @@ The project focuses on scalable backend structure, authentication systems, and e
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.shion.dev/api?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
-  height="170"
+
+<img 
+src="https://github-readme-stats.shion.dev/api?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+height="180"
 />
-  
-  <img 
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-  height="170"
+
+<img 
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=320" 
+height="180"
 />
+
 </p>
 
 ---
@@ -214,10 +216,12 @@ The project focuses on scalable backend structure, authentication systems, and e
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img 
-  src="https://streak-stats.demolab.com/?user=Soham-Lodh&theme=dark&hide_border=false" 
-  height="170"
+
+<img 
+src="https://streak-stats.demolab.com/?user=Soham-Lodh&theme=dark&hide_border=false" 
+height="180"
 />
+
 </p>
 
 ---
