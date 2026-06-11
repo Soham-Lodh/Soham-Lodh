@@ -146,21 +146,51 @@ Production MERN platform across two independently deployed frontends backed by a
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=320" height="180" />
+
+<img 
+src="https://github-readme-stats.shion.dev/api?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+height="180"
+/>
+
+<img 
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soham-Lodh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=320" 
+height="180"
+/>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Soham-Lodh&theme=dark&hide_border=false" height="180" />
-</p>
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Lodh&theme=tokyo-night&hide_border=true" />
+
+<img 
+src="https://streak-stats.demolab.com/?user=Soham-Lodh&theme=dark&hide_border=false" 
+height="180"
+/>
+
 </p>
 
+---
+
+## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Lodh&theme=tokyonight" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Lodh&theme=tokyo-night&hide_border=true" 
+  />
+</p>
+
+---
+
+## 📅 Profile Summary
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Lodh&theme=tokyonight" 
+  />
 </p>
