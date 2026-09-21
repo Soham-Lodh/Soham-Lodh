@@ -101,6 +101,10 @@ Currently focused on becoming better at designing systems that remain **fast, pr
 
 <br/>
 
+## Profile Summary
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-Lodh&theme=tokyonight" width="100%" /> </p>
+
 <br/>
 
 <picture>
