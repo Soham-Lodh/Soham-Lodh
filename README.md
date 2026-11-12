@@ -49,6 +49,16 @@ Currently focused on becoming better at designing systems that remain **fast, pr
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
+### Machine Learning and Deep Learning
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Preprocessing-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
 ### Backend & Systems
 
 <p>
